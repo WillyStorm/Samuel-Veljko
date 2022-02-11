@@ -1,9 +1,0 @@
-<div class="container"></div>
-<section id="top"><!--upper part with button and title TOP-->
-<h2>Handcrafted, home-made masterpieces</h2>
-<form action="" id="form">
-<input id="why" class="btn" type="submit" value="Get started">
-<input id="mail" name="email" type="email" placeholder="Enter your email address" requierd="">
-</form>
-</section><!-- end of top -->
-<div class="container"> <!-- second part -->
